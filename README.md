@@ -11,3 +11,5 @@ https://www.amazon.com/foranj-Red-Ball-V/dp/B00Y96014Q/
 Но не всё так просто.
 Квадраты возвращаются и наносят ответный удар.
 
+<img src="https://github.com/UncleJey/red-ball/blob/master/pics/1.png?raw=true" />
+<img src="https://github.com/UncleJey/red-ball/blob/master/pics/2.png?raw=true" />
